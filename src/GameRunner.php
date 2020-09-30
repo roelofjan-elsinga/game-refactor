@@ -1,5 +1,7 @@
 <?php
 // @codeCoverageIgnoreStart
+declare(strict_types=1);
+
 use App\Game;
 
 require "../vendor/autoload.php";
