@@ -1,4 +1,8 @@
 # Game refactor
+
+![TravisCI build](https://travis-ci.com/roelofjan-elsinga/game-refactor.svg?branch=production)
+[![codecov](https://codecov.io/gh/roelofjan-elsinga/game-refactor/branch/production/graph/badge.svg)](https://codecov.io/gh/roelofjan-elsinga/game-refactor)
+
 This is a refactored (and tested) version of [this game](https://github.com/jbrains/trivia/tree/master/php).
 
 ## Installation
